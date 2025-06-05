@@ -1,4 +1,4 @@
-echo "Prime numbers between 1 and 50 are:"
+echo "Prime numbers between 1 and 50 are :"
 
 for ((number=2; number<=50; number++))
 do
