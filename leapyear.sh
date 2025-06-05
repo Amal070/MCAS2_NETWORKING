@@ -15,6 +15,6 @@ else
 echo "$year is not a leap year"
 fi
 
-#Enter the year (YYYY):
+#Enter the year (YYYY) :
 #2024
 #2024 is a leap year
