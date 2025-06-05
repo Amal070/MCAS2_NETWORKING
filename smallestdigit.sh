@@ -10,5 +10,5 @@ for (( i=1; i<${#number}; i++ )); do
     fi
 done
 
-echo "Smallest digit: $smallest"
+echo "Smallest digit : $smallest"
 
