@@ -13,5 +13,5 @@ sum_of_digits() {
 echo "Enter a number:"
 read number
 result=$(sum_of_digits "$number")
-echo "Sum of digits of $number: $result"
+echo "Sum of digits of $number : $result"
 
