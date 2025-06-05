@@ -12,6 +12,6 @@ for number in "${NUMBERS[@]}"; do
     fi
 done
 
-echo "Smallest number: $smallest"
-echo "Largest number: $largest"
+echo "Smallest number : $smallest"
+echo "Largest number : $largest"
 
