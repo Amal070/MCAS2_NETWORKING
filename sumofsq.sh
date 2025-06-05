@@ -1,4 +1,4 @@
-echo "Enter a number:"
+echo "Enter a number :"
 read number
 sum=0
 while [ $number -ne 0 ]
