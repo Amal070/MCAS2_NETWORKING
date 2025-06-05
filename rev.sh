@@ -8,7 +8,7 @@ else
 echo "$num is not the same when reversed."
 fi
 
-#Enter a number:
+#Enter a number :
 #121
 #121 is the same when reversed.
 
