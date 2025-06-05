@@ -14,6 +14,6 @@ else
     root2=$(echo "scale=2; (-$b - sqrt($discriminant)) / (2 * $a)" | bc -l)
 
     
-    echo "The roots of the quadratic equation are: $root1 and $root2"
+    echo "The roots of the quadratic equation are : $root1 and $root2"
 fi
 
