@@ -12,7 +12,7 @@ read number
 
 check_odd_even "$number"
 
-#Enter a number:
+#Enter a number :
 #6
 #6 is even
 
