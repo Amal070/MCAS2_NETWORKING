@@ -1,4 +1,4 @@
-echo "Enter a line of text"
+echo "Enter a line of text:"
 read line
 
 vowel_count=0
